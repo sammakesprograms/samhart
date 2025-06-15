@@ -11,7 +11,9 @@ I also implemented a basic navbar and pages for the devlog, portfolio and my fir
 
 I briefly attempted to use VSCode but struggled to understand the UI and the JSON-based settings so I quickly reverted to WebStorm.
 
-I quickly made a new favicon in the website using Adobe Illustrator, which I might reuse within the website for other purposes. I also replaced the README from Astro's minimal template with a new, from scratch README with new icons to show what tools I've used.
+I quickly made a new favicon in the website using Adobe Illustrator, which I might reuse within the website for other purposes. I also replaced the README from Astro's minimal template with a new, from scratch README with new icons to show what tools I've used.  
+
+I added the screenshots I have for The Obsidian Trials.
 
 Tools to date:
 - Astro
