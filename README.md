@@ -8,7 +8,7 @@ Here's all the code and assets that make my website work! Feel free to check it 
 <h2 align="center">
 All the tools I used
 <p align="center">
-  <a href="https://en.pronouns.page/@samhart">
+  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=astro,ai,tailwind,webstorm"/>
   </a>
 </p>
