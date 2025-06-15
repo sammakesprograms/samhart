@@ -1,7 +1,7 @@
 <h1 align="center">
 Welcome to my website!
 </h1>
-<p align="justify-all">
+<p align="center">
 Here's all the code and assets that make my website work! Feel free to check it out.
 </p>
 
