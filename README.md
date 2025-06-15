@@ -9,7 +9,7 @@ Here's all the code and assets that make my website work! Feel free to check it 
 All the tools I used
 <p align="center">
   <a href="https://en.pronouns.page/@samhart">
-    <img src="https://simpleskill.icons.workers.dev/svg?i=astro,git,github,gitkraken,macos,tailwindcss,webstorm&theme=dark"/>
+    <img src="https://skillicons.dev/icons?i=astro,ai,tailwind,webstorm"/>
   </a>
 </p>
 </h2>
