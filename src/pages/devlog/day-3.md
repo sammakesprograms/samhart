@@ -7,7 +7,7 @@ pubDate: 2025-06-16
 
 I realised that I forgot to merge the branch with the Netlify badge for the README and messed up the commit history a little but the badge now works as intended.
 
-I added skill icons for The Obsidian Trials along with alt text for all images used so far.
+I added skill icons for The Obsidian Trials along with alt text for all images used so far. I also added details about my role in the project.
 
 <p>
     <a href="https://skillicons.dev">
