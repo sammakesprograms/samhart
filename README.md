@@ -10,9 +10,34 @@ Here&#39;s all the code and assets that make my website work! Feel free to check
 
 <h2 align="center">
 All the tools I used
+</h2>
+<h3 align="center">
+Frameworks
+</h3>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=astro,cloudflare,ai,netlify,tailwind,webstorm" alt="Icons for all the tools I used to create this website." />
+  <a href="https://github.com/LelouchFR/skill-icons">
+    <img
+      src="https://go-skill-icons.vercel.app/api/icons?i=astro,svelte,tailwind&titles=true"
+    />
   </a>
 </p>
-</h2>
+<h3 align="center">
+Hosting
+</h3>
+<p align="center">
+  <a href="https://github.com/LelouchFR/skill-icons">
+    <img
+      src="https://go-skill-icons.vercel.app/api/icons?i=cloudflare,github,netlify&titles=true"
+    />
+  </a>
+</p>
+<h3 align="center">
+Development
+</h3>
+<p align="center">
+  <a href="https://github.com/LelouchFR/skill-icons">
+    <img
+      src="https://go-skill-icons.vercel.app/api/icons?i=gitkraken,webstorm&titles=true"
+    />
+  </a>
+</p>
