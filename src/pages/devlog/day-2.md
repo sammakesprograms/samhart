@@ -16,9 +16,8 @@ I quickly made a new favicon in the website using Adobe Illustrator, which I mig
 I added the screenshots I have for The Obsidian Trials.
 
 Tools to date:
-- Astro
-- Tailwind
-- npm
-- Markdown
-- WebStorm
-- Adobe Illustrator
+<p>
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=astro,cloudflare,ai,netlify,tailwind,webstorm" alt="Icons for Astro, Cloudflare, Adobe Illustrator, Netlify, Tailwind and WebStorm, showcasing the tools used during day 2 of developing my website." />
+    </a>
+</p>
