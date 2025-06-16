@@ -63,19 +63,28 @@
     }
     .lightbox-content {
         position: relative;
-        max-width: 90%;
-        max-height: 90%;
-        text-align: center;
+        max-width: 90vw;
+        max-height: 90vh;
+        display: flex;
+        flex-direction: column;
+        align-items: center; /* centers content horizontally */
+        justify-content: center;
+        text-align: center; /* centers caption text */
+        gap: 0.5rem; /* space between image and caption */
     }
     .lightbox-content img {
-        max-width: 100%;
-        max-height: 100%;
+        max-width: 100vw;
+        max-height: 60vh;
         border-radius: 8px;
+        display: block;
     }
     .caption {
         color: white;
-        margin-top: 0.5rem;
-        font-size: 0.9rem;
+        font-size: 1rem;
+        background: rgba(0,0,0,0.5);
+        padding: 0.25rem 0.5rem;
+        border-radius: 4px;
+        max-width: 90vw;
     }
     .close, .prev, .next {
         position: absolute;
@@ -111,9 +120,6 @@
                 aria-label={`Open image: ${image.alt}`}
         >
             <img src={image.src} alt={image.alt} />
-            {#if image.caption}
-                <div class="caption" style="color: black; margin-top: 0.25rem;">{image.caption}</div>
-            {/if}
         </button>
     {/each}
 </div>
