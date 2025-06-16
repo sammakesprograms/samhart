@@ -1,13 +1,16 @@
 ---
 import Layout from '../../layouts/Layout.astro';
+import Lightbox from '../../components/Lightbox.svelte';
 ---
 
 <Layout>
     <h1 class="text-3xl font-bold mb-4">The Obsidian Trials</h1>
     <h3 class="text-gray-300 text-xl font-medium">A fun and challenging platformer created for the Ukie Games Jam 2025...</h3>
-    <img src="/images/portfolio/the-obsidian-trials/otfire.webp" alt="A screenshot from The Obsidian Trials, showcasing the fire level." class="rounded shadow-md w-full max-w-md" />
-    <img src="/images/portfolio/the-obsidian-trials/otice.webp" alt="A screenshot from The Obsidian Trials, showcasing the ice level." class="rounded shadow-md w-full max-w-md" />
-    <img src="/images/portfolio/the-obsidian-trials/otfireice.webp" alt="A screenshot from The Obsidian Trials, showcasing the combined fire and ice level." class="rounded shadow-md w-full max-w-md" />
+    <Lightbox images={[
+        { src: '/images/portfolio/the-obsidian-trials/otfire.webp', alt: 'A screenshot from The Obsidian Trials, showcasing the fire level.', caption: 'The fire level.'},
+        { src: '/images/portfolio/the-obsidian-trials/otice.webp', alt: 'A screenshot from The Obsidian Trials, showcasing the ice level.', caption: 'The ice level.'},
+        { src: '/images/portfolio/the-obsidian-trials/otfireice.webp', alt: 'A screenshot from The Obsidian Trials, showcasing the combined fire and ice level.', caption: 'The combined fire and ice level.' }
+    ]} client:load />
     <p>The Obsidian Trials is a platforming game made by a small team of students in Unreal Engine 5 for the Ukie Games Jam 2025. I was responsible for implementing our checkpoint system as well as our player code. I also created and managed the GitHub repository and helped to co-ordinate the team.</p>
     <h2 class="text-2xl font-semibold">Tools we used</h2>
     <p>
