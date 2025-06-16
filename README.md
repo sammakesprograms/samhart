@@ -15,9 +15,9 @@ All the tools I used
 Frameworks
 </h3>
 <p align="center">
-  <a href="https://github.com/LelouchFR/skill-icons">
+  <a href="https://go-skill-icons.vercel.app/">
     <img
-      src="https://go-skill-icons.vercel.app/api/icons?i=astro,svelte,tailwind&titles=true"
+      src="https://go-skill-icons.vercel.app/api/icons?i=astro,svelte,tailwind"
     />
   </a>
 </p>
@@ -25,9 +25,9 @@ Frameworks
 Hosting
 </h3>
 <p align="center">
-  <a href="https://github.com/LelouchFR/skill-icons">
+  <a href="https://go-skill-icons.vercel.app/">
     <img
-      src="https://go-skill-icons.vercel.app/api/icons?i=cloudflare,github,netlify&titles=true"
+      src="https://go-skill-icons.vercel.app/api/icons?i=cloudflare,github,netlify"
     />
   </a>
 </p>
@@ -37,7 +37,7 @@ Development
 <p align="center">
   <a href="https://github.com/LelouchFR/skill-icons">
     <img
-      src="https://go-skill-icons.vercel.app/api/icons?i=gitkraken,webstorm&titles=true"
+      src="https://go-skill-icons.vercel.app/api/icons?i=gitkraken,webstorm"
     />
   </a>
 </p>
