@@ -12,7 +12,7 @@ Here&#39;s all the code and assets that make my website work! Feel free to check
 All the tools I used
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=astro,ai,tailwind,webstorm"/>
+    <img src="https://skillicons.dev/icons?i=astro,cloudflare,ai,netlify,tailwind,webstorm" alt="Icons for all the tools I used to create this website." />
   </a>
 </p>
 </h2>
