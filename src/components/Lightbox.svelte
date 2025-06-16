@@ -90,7 +90,7 @@
         position: absolute;
         top: 50%;
         transform: translateY(-50%);
-        background: rgba(255 255 255 / 0.2);
+        background: rgba(255 255 255 / 0.0);
         color: white;
         border: none;
         padding: 0.5rem 1rem;
