@@ -5,7 +5,7 @@ import Lightbox from '../../components/Lightbox.svelte';
 
 <Layout>
     <h1 class="text-3xl font-bold mb-4">The Obsidian Trials</h1>
-    <h3 class="text-gray-300 text-xl font-medium">A fun and challenging platformer created for the Ukie Games Jam 2025...</h3>
+    <h2 class="text-gray-300 text-2xl font-medium">A fun and challenging platformer created for the Ukie Games Jam 2025...</h2>
     <Lightbox images={[
         { src: '/images/portfolio/the-obsidian-trials/otfire.webp', alt: 'A screenshot from The Obsidian Trials, showcasing the fire level.', caption: 'The fire level.'},
         { src: '/images/portfolio/the-obsidian-trials/otice.webp', alt: 'A screenshot from The Obsidian Trials, showcasing the ice level.', caption: 'The ice level.'},
@@ -28,4 +28,12 @@ import Lightbox from '../../components/Lightbox.svelte';
         <img src="https://go-skill-icons.vercel.app/api/icons?i=itchio,gitlab" alt="Icons for itch.io and gitlab, showcasing the tools used to deploy and host code and assets for our game." />
     </a>
     <p>Note: We used GitHub for version control during development as most of the team had only used GitHub before the game jam started. After the game jam was over I transferred the repository to GitLab to take advantage of its higher per-repository free storage limit. </p>
+    <h2 class="text-2xl font-medium">Game jam submission</h2>
+    <a href="https://itch.io/jam/ukie-student-game-jam-2025/rate/3396013">
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=itchio" alt="An itch.io icon which links to the game jam page for our submission." />
+    </a>
+    <h2 class="text-2xl font-medium">Source code</h2>
+    <a href="https://gitlab.com/the-obsidian-helldivers/the-obsidian-trials">
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=gitlab" alt="An icon for GitLab which links to the project's source code repository." />
+    </a>
 </Layout>
