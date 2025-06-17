@@ -12,7 +12,7 @@ I added skill icons for The Obsidian Trials along with alt text for all images u
 I started using JavaScript for the first time as I wanted to implement a lightbox for my game screenshots. I went with Svelte for my framework as I've heard good things about its developer experience and that it works particularly well with Tailwind.
 
 <p>
-    <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=astro,svelte,tailwind,webstorm" alt="Icons for Astro, Svelte, Tailwind and WebStorm, showcasing the tools used during day 3 of developing my website."/>
+    <a href="https://github.com/LelouchFR/skill-icons">
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=astro,svelte,tailwind,webstorm" alt="Icons for Astro, Svelte, Tailwind and WebStorm, showcasing the tools used during day 3 of developing my website."/>
     </a>
 </p>

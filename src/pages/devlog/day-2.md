@@ -17,7 +17,7 @@ I added the screenshots I have for The Obsidian Trials.
 
 Tools to date:
 <p>
-    <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=astro,cloudflare,ai,netlify,tailwind,webstorm" alt="Icons for Astro, Cloudflare, Adobe Illustrator, Netlify, Tailwind and WebStorm, showcasing the tools used during day 2 of developing my website." />
+    <a href="https://github.com/LelouchFR/skill-icons">
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=astro,cloudflare,ai,netlify,tailwind,webstorm" alt="Icons for Astro, Cloudflare, Adobe Illustrator, Netlify, Tailwind and WebStorm, showcasing the tools used during day 2 of developing my website." />
     </a>
 </p>

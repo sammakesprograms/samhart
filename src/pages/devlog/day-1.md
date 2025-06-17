@@ -11,7 +11,7 @@ I created my Astro project and added Tailwind before adding some basic text to m
 
 Tools I used today:
 <p>
-    <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=astro,github,npm,tailwind,webstorm" alt="Icons for Astro, GitHub, npm, Tailwind and WebStorm, showcasing the tools used during day 1 of developing my website." />
+    <a href="https://github.com/LelouchFR/skill-icons">
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=astro,github,npm,tailwind,webstorm" alt="Icons for Astro, GitHub, npm, Tailwind and WebStorm, showcasing the tools used during day 1 of developing my website." />
     </a>
 </p>
