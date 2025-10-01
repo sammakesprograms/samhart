@@ -1,4 +1,7 @@
 <h1 align="center">
+This project has been abandoned as I do not have the time to learn to develop and maintain a website from scratch. The current plan is to transition to WordPress.
+</h1>
+<h1 align="center">
 Welcome to my website!
 </h1>
 <p align="center">
